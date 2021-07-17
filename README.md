@@ -6,4 +6,4 @@ A universal spam bot which can spam text messages in whatsapp discord and other 
 The output image is as follows:
 <br>
 <br>
-![Alt text](window.png)
+![alt text](window.png)
