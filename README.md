@@ -8,7 +8,8 @@ tkinter: to create a GUI whose screenshot is provided below.
 <br>
 time: to give a wait time before spamming begins.
 <br>
-The output image is as follows:
+<br>
+<h3>The output image is as follows:</h3>
 
 ![window](https://user-images.githubusercontent.com/61089784/126044639-b64587cd-fc64-4c1b-bc50-fd3afaa50461.png)
 
